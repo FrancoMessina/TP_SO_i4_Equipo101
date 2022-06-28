@@ -1,0 +1,10 @@
+Franco David Messina (GAMMA), Alfredo Gonzalez (ALFA), Guarachi Sarzuri Eliana (BETA)
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+A-Color Azul.
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+B- Color Amarillo.
+C- ¿Qué color de fondo tiene su página en el MASTER?
+C- Color Azul
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+D- Favicon de ALFA. Esto fue decision nuestra como la del color porque se genereba un conflicto y nosotros decidimos quedarnos con la version de ALFA.
