@@ -8,3 +8,17 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 C- Color Azul
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
 D- Favicon de ALFA. Esto fue decision nuestra como la del color porque se genereba un conflicto y nosotros decidimos quedarnos con la version de ALFA.
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+E- Si, beta y gamma
+F- ¿Qué problemas surgieron?
+F- Al no estar el repositorio actualizado requería un push forzado.
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+G- Nuestra solucion fue primero hacer un git pull origin TESTING. 
+De esta manera actualizamos la rama local de TESTING y luego subimos los datos correctamente
+H- ¿Qué sucede si cada uno utiliza el push -f?
+H- Con push-f realizamos un pusheo forzado lo que implica reemplazar el push anterior por las modificaciones actuales 
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+I- En la rama desarrollo hacer un merge de testing.
